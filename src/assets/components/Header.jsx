@@ -13,7 +13,7 @@ const Header = () => {
               <div className="mx-auto max-w-container text-white font-popps">
                   <div className=" lg:flex items-center">
                       <div className="lg:w-1/5 w-full">
-                          <div className=" flex items-center justify-center gap-x-1">
+                          <div className=" flex items-center justify-center lg:justify-normal gap-x-1">
                               <div className="">
                                   <FiMail className='text-[15px]' />
                               </div>
