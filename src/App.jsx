@@ -1,5 +1,5 @@
-import Header from "./assets/components/Header"
-import Navbar from "./assets/components/Navbar"
+import Header from "./components/Header"
+import Navbar from "./components/Navbar"
 
 
 function App() {

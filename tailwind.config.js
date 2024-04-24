@@ -12,6 +12,9 @@ export default {
     fontFamily: {
       'popps': ['Poppins', 'sans-serif',],
     },
+    backgroundImage: {
+      'hero-pattern': "url('/img/hero-pattern.svg')",
+    }
   },
   plugins: [],
 }
