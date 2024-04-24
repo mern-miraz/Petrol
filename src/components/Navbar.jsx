@@ -19,7 +19,7 @@ const Navbar = () => {
                             <a href="#"><img src={logo} alt="" /></a>
                         </div>
                         <div className="">
-                            <ul className={`lg:flex items-center pl-3 lg:pl-0 gap-x-6 absolute top-0 left-0 lg:static ${show == true ? " bg-green-600 top-[227px] w-full duration-700 ease-in-out" : " top-[-200px] left-[-400px] w-full duration-700 ease-in-out" }`}>
+                            <ul className={`lg:flex items-center pl-3 lg:pl-0 gap-x-6 absolute top-0 left-0 lg:static z-50 ${show == true ? " bg-[#F40404] top-[227px] w-full duration-700 ease-in-out" : " top-[-200px] left-[-400px] w-full duration-700 ease-in-out" }`}>
                                 <li><a className='font-popps text-white font-semibold text-xl lg:text-base' href="#">Home</a></li>
                                 <li><a className='font-popps text-white font-semibold text-xl lg:text-base' href="#">About</a></li>
                                 <li><a className='font-popps text-white font-semibold text-xl lg:text-base' href="#">Services</a></li>
