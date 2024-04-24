@@ -13,7 +13,7 @@ export default {
       'popps': ['Poppins', 'sans-serif',],
     },
     backgroundImage: {
-      'ban': "url(./src/assets/Ban.png)",
+      'ban': "url('/src/assets/Ban.png')",
       'Service1' : "url(./src/assets/service1.png)",
       'Service2' : "url(./src/assets/service2.png)",
       'Service3' : "url(./src/assets/service3.png)",
